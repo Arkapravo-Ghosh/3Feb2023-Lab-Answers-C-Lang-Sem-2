@@ -1,7 +1,7 @@
 # Answers for questions given in Lab in 3rd Feb 2023 for C Language
 <details>
   <summary>Answers (Click to Expand)</summary>
-  <--
+  <!--
   * [Q1. First digit of fractional part](Lab2-Answers/Lab2-1.c)
   * [Q2. Insert 1 as first digit of fraction part](Lab2-Answers/Lab2-2.c)
   * [Q3. Second digit of fractional part](Lab2-Answers/Lab2-3.c)
@@ -17,7 +17,7 @@
   * [Q13. Find sum of first k digits after decimal](Lab2-Answers/Lab2-13.c)
   * [Q14. Sum of k digits before decimal](Lab2-Answers/Lab2-14.c)
   * [Q15. Delete k<sup>th</sup> digit after decimal](Lab2-Answers/Lab2-15.c)
-  ---!>
+  -->
 
 </details>
 
