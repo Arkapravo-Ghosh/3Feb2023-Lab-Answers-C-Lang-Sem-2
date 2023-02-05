@@ -1,4 +1,4 @@
-# Answers for questions given in Lab in 3rd Feb 2023 for C Language
+# Answers for questions given in Lab on 3rd Feb 2023 for C Language
 <details>
   <summary>Answers (Click to Expand)</summary>
   <!--
