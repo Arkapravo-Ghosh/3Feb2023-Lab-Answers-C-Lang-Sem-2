@@ -1,11 +1,9 @@
-#include <stdio.h>
-#include <math.h>
-// Calculte the slope of a line
-void main() {
-    double a, b;
-    printf("Enter value of a: ");
-    scanf("%lf", &a);
-    printf("Enter value of b: ");
-    scanf("%lf", &b);
-
+#include<stdio.h>
+#include<math.h>
+//Calculate the slope of a line
+int main(){
+    int a,b,c;
+    scanf("%d %d %d",&a,&b,&c);
+    printf("%f",(-1)*((float)a/(float)b));
+    return 0;
 }
