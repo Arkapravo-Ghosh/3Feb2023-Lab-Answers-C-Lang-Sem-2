@@ -1,9 +1,15 @@
 #include <stdio.h>
 #include <math.h>
-// WAP to find the cos of an angle (Angle is in radian)
+// Area of a triangle using 3 sides and perimeter
 void main() {
-    double angle;
-    printf("Enter Angle in Radian: ");
-    scanf("%lf", &angle);
-    printf("Cos of %lf is %.*lf.\n", angle, 3, cos(angle));
+    int a, b, c;
+    printf("Enter length of first side: ");
+    scanf("%d", &a);
+    printf("Enter length of second side: ");
+    scanf("%d", &b);
+    printf("Enter length of third side: ");
+    scanf("%d", &c);
+    printf("Perimeter: %d\n", a + b + c);
+    int s = (a + b + c) / 2;
+    printf("Area: %.*lf\n", 3, sqrt(s * (s - a) * (s - b) * (s - c)));
 }
